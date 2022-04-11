@@ -8,5 +8,3 @@ function multiplesOf3and5(number) {
   console.log(sum);
   return sum;
 }
-
-multiplesOf3and5(1000);
